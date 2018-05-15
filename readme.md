@@ -1,4 +1,4 @@
-# Fun with
+# Fun with canvas
 
 JS Exercises. 8th challenge of the #JavaScript30 course. Playing around with JS and HSL creating a drawing board with the mouse pointer
 
